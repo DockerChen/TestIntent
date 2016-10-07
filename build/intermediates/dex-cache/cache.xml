@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Code\androidproject\TestIntent\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f77bed556fc40bf1f48279baa67ba215931a0140">
+        <dex dex="F:\Code\androidproject\TestIntent\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ddda76e2a5802bddbc2c342824f4bcf2511e980e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\androidproject\TestIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Code\androidproject\TestIntent\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_558aa622fe3bd4b6b27993a087dd39d3d84e7332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\androidproject\TestIntent\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Code\androidproject\TestIntent\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_7232f3c68283409745992891850188ab560b0c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\androidproject\TestIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Code\androidproject\TestIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_ca3354f1466b3cc6e4e2ac1a22f932fbbae5c4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\androidproject\TestIntent\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Code\androidproject\TestIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_3196e93ec4cfa3afffe5660ec83a211c7a5df406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\androidproject\TestIntent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Code\androidproject\TestIntent\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1ec642190ff4f55d9205474606a07f1b4dcd4576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Code\androidproject\TestIntent\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_bfe00a94585031dfec7e233ef05af7dec9fa699d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Code\androidproject\TestIntent\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76b925f6c9576116b0301d549806484a46a6cbf5">
+        <dex dex="F:\Code\androidproject\TestIntent\app\build\intermediates\pre-dexed\debug\instant-run_8b6ff4ee3127fd75616fa56a896c3a28b299c9b8.jar" />
+    </item>
+
+</items>
